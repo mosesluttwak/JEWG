@@ -16,6 +16,7 @@ const std::initializer_list<const char*> SEED_NODES = {
   "yyy.yy.yy.yy:21689",
 }; 
   
+const char GENESIS_COINBASE_TX_HEX[] = "";
 const uint64_t CRYPTONOTE_MAX_BLOCK_NUMBER                   = 500000000;
 const size_t   CRYPTONOTE_MAX_BLOCK_BLOB_SIZE                = 500000000;
 const size_t   CRYPTONOTE_MAX_TX_SIZE                        = 1000000000;
