@@ -13,7 +13,6 @@ namespace parameters {
   
 const std::initializer_list<const char*> SEED_NODES = {
   "144.172.83.153:21689",
-  "144.172.83.153:21689",
 }; 
   
 const char GENESIS_COINBASE_TX_HEX[] = "";
